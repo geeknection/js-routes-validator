@@ -11,8 +11,6 @@ It just it! Let Lib take care of the rest.
 `npm install @buuhv/js-routes-validator --save`
 
 ## Usage
-
-## Creating interfaces
 ```typescript
 function getMyData() {
 
